@@ -1,10 +1,9 @@
 {
     "name": "ng-rescarousel",
-    "version": "0.0.1",
-    "description": "initial release of resCarouel",
+    "version": "0.0.2",
+    "description": "initial release of resCarouel patch",
     "main": "index.js",
     "scripts": {
-        "prepublish": "tsc",
         "test": "resCarousel works"
     },
     "keywords": [
