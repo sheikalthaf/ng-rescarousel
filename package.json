@@ -1,0 +1,23 @@
+{
+    "name": "ng-rescarousel",
+    "version": "0.0.1",
+    "description": "initial release of resCarouel",
+    "main": "index.js",
+    "scripts": {
+        "prepublish": "tsc",
+        "test": "resCarousel works"
+    },
+    "keywords": [
+        "angular 2",
+        "angular 4",
+        "angular",
+        "resCarousel",
+        "rescarousel"
+    ],
+    "author": "Sheik Althaf",
+    "license": "MIT",
+    "dependencies": {
+        "@angular/core": "^4.2.3"
+    },
+    "typings": "./ng-rescarousel.d.ts"
+}

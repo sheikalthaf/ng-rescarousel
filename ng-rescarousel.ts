@@ -1,0 +1,1 @@
+export { ResCarouselModule } from './src/ng-rescarousel.module';
