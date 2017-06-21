@@ -15,8 +15,14 @@
     ],
     "author": "Sheik Althaf",
     "license": "MIT",
-    "dependencies": {
-        "@angular/core": "^4.2.3"
+    "peerDependencies": {
+        "@angular/core": "^4.2.3",
+        "zone.js": "^0.8.4",
+        "rxjs": "^5.0.1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/sheikalthaf/ng-rescarousel"
     },
     "typings": "./ng-rescarousel.d.ts"
 }
