@@ -1,28 +1,28 @@
 {
-    "name": "ng-rescarousel",
-    "version": "0.0.2",
-    "description": "initial release of resCarouel patch",
-    "main": "index.js",
-    "scripts": {
-        "test": "resCarousel works"
-    },
-    "keywords": [
-        "angular 2",
-        "angular 4",
-        "angular",
-        "resCarousel",
-        "rescarousel"
-    ],
-    "author": "Sheik Althaf",
-    "license": "MIT",
-    "peerDependencies": {
-        "@angular/core": "^4.2.3",
-        "zone.js": "^0.8.4",
-        "rxjs": "^5.0.1"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/sheikalthaf/ng-rescarousel"
-    },
-    "typings": "./ng-rescarousel.d.ts"
+  "name": "ng-rescarousel",
+  "version": "0.0.3",
+  "description": "initial release of resCarouel patch",
+  "main": "index.js",
+  "scripts": {
+    "test": "resCarousel works"
+  },
+  "keywords": [
+    "angular 2",
+    "angular 4",
+    "angular",
+    "resCarousel",
+    "rescarousel"
+  ],
+  "author": "Sheik Althaf",
+  "license": "MIT",
+  "peerDependencies": {
+    "@angular/core": "^4.2.3",
+    "zone.js": "^0.8.4",
+    "rxjs": "^5.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sheikalthaf/ng-rescarousel"
+  },
+  "typings": "./ng-rescarousel.d.ts"
 }
